@@ -1,1 +1,1 @@
-# Divulgue-eventos
+# Site criado pensando em promotores de festas
